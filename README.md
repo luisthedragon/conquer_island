@@ -3,6 +3,7 @@
 The game consists on eliminating all the lions on the board.<br>
 Clicking on a tile makes it change from lion to dog or viceversa.<br>
 The effect also applies to adjacent tiles.<br>
+This game was inspired by the [Lights out](https://en.wikipedia.org/wiki/Lights_Out_(game)) game
 
 ## Project setup
 
